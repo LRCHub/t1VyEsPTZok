@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "100MILLION (REMIX)",
+  "base_artist": "舐達麻",
+  "createdAt": "2026-02-11T07:26:47.215074Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "100MILLION - REMIX",
+      "artist": "NAMEDARUMAAZ",
+      "has_synced": false,
+      "path": "select/01_100MILLION_-_REMIX_NAMEDARUMAAZ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "100MILLION (REMIX)",
+      "artist": "NAMEDARUMA",
+      "has_synced": true,
+      "path": "select/02_100MILLION_(REMIX)_NAMEDARUMA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "100MILLION - REMIX",
+      "artist": "舐達麻",
+      "has_synced": false,
+      "path": "select/pl_01_100MILLION_-_REMIX_舐達麻.txt"
+    }
+  ]
+}
